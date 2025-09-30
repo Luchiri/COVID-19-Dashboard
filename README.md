@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # COVID-19 Data Dashboard
 
 Simple Streamlit project to visualize COVID-19 data (Our World In Data).
@@ -26,9 +26,9 @@ Users can filter by country, select a date range, and view **summary metrics, in
 
 ---
 
-## Screenshots
+## Live Link
 
-![Dashboard Screenshot](assets/screenshot.png)  
+https://nexqvazbgzzorjexqlhsy8.streamlit.app/
 
 ---
 
